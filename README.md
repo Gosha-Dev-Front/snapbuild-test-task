@@ -6,7 +6,9 @@
 
 ## Demo
 
-После публикации: `https://username.github.io/snapbuild-test-task/`. Vite использует относительный `base`, поэтому проект работает в подпапке GitHub Pages и после refresh.
+[https://gosha-dev-front.github.io/snapbuild-test-task/](https://gosha-dev-front.github.io/snapbuild-test-task/)
+
+Vite использует относительный `base`, поэтому проект работает в подпапке GitHub Pages и после refresh.
 
 ## Local development
 
